@@ -2,20 +2,21 @@
 
 #header {
 	background-color: rgb(100,100,100);
-
 }
 
 #login{
 	padding: 20px;
 }
 
-#pub{
-
-	background-color: rgb(200,200,200);
+#bandeau{
+	background-image: url("image trop belle de ouf qui tue.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 90vh;
 }
 
 #signup{
-	padding: 50px;
+	margin-top: 100px;
 }
 
 .feature{
@@ -33,4 +34,24 @@
 
 #footer a:hover{
 	color : white;
+	width: 50px;
+}
+
+
+#nom {
+	color: #E6E6EA;
+	font-family: 'Lora', serif;
+	h2 { 
+	font-size:  80px;
+		}
+}
+
+#nom:hover{
+	color: white;
+}
+
+#logo {
+	width: 50px;
+	margin-top: 15px;
+	margin-left: 20px;
 }
