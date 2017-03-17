@@ -1,0 +1,36 @@
+
+
+#header {
+	background-color: rgb(100,100,100);
+
+}
+
+#login{
+	padding: 20px;
+}
+
+#pub{
+
+	background-color: rgb(200,200,200);
+}
+
+#signup{
+	padding: 50px;
+}
+
+.feature{
+	/*margin: 2px;*/
+	background-color: rgb(200,200,200);
+}
+
+#footer{
+	background-color: rgb(100,100,100);
+}
+
+#footer a{
+	color: rgb(220,220,220);
+}
+
+#footer a:hover{
+	color : white;
+}
